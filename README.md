@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hendri-voodoo
 - 👀 I’m interested in Gaming, Movies, Manga and Algorithm
-- 🌱 I’m currently learning Unity and Automation
-- 💞️ I’m looking to collaborate on Android, iOS and any mobile native related stuffs
+- 💞️ I’m looking to collaborate on Android, iOS, CI/CD and any mobile native related stuffs
 - 📫 How to reach me hendri@voodoo.io
 
 <!---
